@@ -1,11 +1,11 @@
 {
-  "name": "atom-material-theme",
-  "displayName": "Atom Material Theme",
-  "description": "Atom Material Theme - based on Atom-Material-Ui and Atom-Material-Syntax",
+  "name": "astof-theme",
+  "displayName": "Astof theme",
+  "description": "custom theme inverseley based off of my pitch",
   "version": "1.10.9",
-  "publisher": "tobiasalthoff",
+  "publisher": "Ashton",
   "author": {
-    "name": "tobiasalthoff"
+    "name": "Ashton"
   },
   "icon": "images/icon.png",
   "galleryBanner": {
@@ -13,13 +13,13 @@
     "theme": "dark"
   },
   "license": "SEE LICENSE IN LICENSE.md",
-  "homepage": "https://github.com/tobiasalthoff/vscode-atom-material-theme/blob/master/README.md",
+  "homepage": "https://yeesterplus.github.io",
   "bugs": {
-    "url": "https://github.com/tobiasalthoff/vscode-atom-material-theme/issues"
+    "url": "https://github.com/YeesterPlus/Astof-Theme/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tobiasalthoff/vscode-atom-material-theme"
+    "url": "https://github.com/YeesterPlus/Astof-Theme"
   },
   "engines": {
     "vscode": "^1.16.0"
@@ -32,7 +32,7 @@
       {
         "label": "Atom Material Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Atom Material Theme-color-theme.json"
+        "path": "./themes/astof-color-theme.json"
       }
     ]
   }
