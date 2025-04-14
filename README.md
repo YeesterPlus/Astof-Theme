@@ -1,1 +1,1 @@
-This is Astof theme
+This is Hyprcode theme
