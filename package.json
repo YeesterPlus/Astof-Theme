@@ -1,6 +1,6 @@
 {
-  "name": "astof-theme",
-  "displayName": "Astof theme",
+  "name": "hyprcode-theme",
+  "displayName": "Hyprcode theme",
   "description": "custom theme inverseley based off of my pitch",
   "version": "1.10.9",
   "publisher": "Ashton",
@@ -15,11 +15,11 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "homepage": "https://yeesterplus.github.io",
   "bugs": {
-    "url": "https://github.com/YeesterPlus/Astof-Theme/issues"
+    "url": "https://github.com/HyprlandAppUtil/riced/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/YeesterPlus/Astof-Theme"
+    "url": "https://github.com/HyprlandAppUtil/riced.git"
   },
   "engines": {
     "vscode": "^1.16.0"
@@ -30,9 +30,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Atom Material Theme",
+        "label": "Hyprcode",
         "uiTheme": "vs-dark",
-        "path": "./themes/astof-color-theme.json"
+        "path": "./themes/hyprcode-color-theme.json"
       }
     ]
   }
